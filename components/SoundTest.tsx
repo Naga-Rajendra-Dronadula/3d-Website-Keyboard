@@ -50,13 +50,13 @@ export default function SoundTest() {
                     </h2>
                     <p className="text-lg text-black/60 max-w-md">
                         Acoustics aren't an afterthought; they are the design.
-                        Experience the deep, thocky signature sound of our custom-lubed BrewCode switches.
+                        Experience the deep, thocky signature sound of our custom-lubed GhostKeys switches.
                     </p>
 
                     <div className="p-6 rounded-2xl border border-black/10 bg-white/50 backdrop-blur-sm">
                         <div className="flex items-center gap-4 mb-2">
                             <div className="w-3 h-3 rounded-full bg-emerald-500 animate-pulse" />
-                            <p className="font-semibold tracking-tight">BrewCode Signature</p>
+                            <h3 className="text-xl font-medium mb-2">GhostKeys Signature</h3>
                         </div>
                         <p className="text-sm text-black/60">
                             Factory lubed linear switches. High-density Polycarbonate plate.

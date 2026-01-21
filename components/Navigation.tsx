@@ -12,7 +12,7 @@ export default function Navigation() {
         >
             <div className="w-full max-w-7xl flex items-center justify-between">
                 <div className="flex items-center gap-2">
-                    <span className="font-bold tracking-tighter text-xl text-black">BrewCode</span>
+                    <span className="font-bold text-xl tracking-tight">GhostKeys</span>
                     <span className="text-xs uppercase tracking-widest opacity-60 hidden md:block border border-black/10 px-2 py-0.5 rounded-full text-black">Series 01</span>
                 </div>
 

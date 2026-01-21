@@ -150,7 +150,7 @@ export default function KeyboardScroll() {
                         >
                             <div className="w-8 h-8 border-2 border-black/20 border-t-black/90 rounded-full animate-spin" />
                             <p className="text-black/60 text-sm tracking-tight font-medium">
-                                Loading BrewCode sequence... {loadingProgress}%
+                                Loading GhostKeys sequence... {loadingProgress}%
                             </p>
                         </motion.div>
                     )}
@@ -182,7 +182,7 @@ function StoryOverlays({ scrollYProgress }: { scrollYProgress: any }) {
 
             {/* 0% Center */}
             <motion.div style={{ opacity: opacity0, y: y0 }} className="absolute inset-0 flex flex-col items-center justify-center text-center">
-                <h1 className="text-5xl md:text-7xl font-semibold tracking-tighter text-black/90 mb-2">BrewCode Keyboard.</h1>
+                <h1 className="text-5xl md:text-7xl font-semibold tracking-tighter text-black/90 mb-2">GhostKeys Keyboard.</h1>
                 <p className="text-lg md:text-xl text-black/60 font-medium">Engineered clarity.</p>
             </motion.div>
 

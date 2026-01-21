@@ -10,8 +10,7 @@ export default function Specifications() {
                         Technical <br /> Mastery.
                     </h2>
                     <p className="text-lg text-white/60 leading-relaxed max-w-md">
-                        Every switch, stabilizer, and keycap is calibrated for acoustic perfection.
-                        The BrewCode Series 01 isn't just a tool; it's an instrument.
+                        <p className="text-zinc-600">Every switch, stabilizer, and keycap is calibrated for acoustic perfection. The GhostKeys Series 01 isn't just a tool; it's an instrument.</p>
                     </p>
                 </div>
 

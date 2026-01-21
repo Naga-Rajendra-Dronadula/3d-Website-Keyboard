@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "BrewCode - Precision Keyboards",
+  title: "GhostKeys - Precision Keyboards",
   description: "High-end scrollytelling experience.",
 };
 
