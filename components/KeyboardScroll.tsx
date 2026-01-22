@@ -205,7 +205,7 @@ function StoryOverlays({ scrollYProgress }: { scrollYProgress: any }) {
             {/* 90% Center CTA */}
             <motion.div style={{ opacity: opacity3, y: y3 }} className="absolute inset-0 flex flex-col items-center justify-center text-center">
                 <h2 className="text-5xl md:text-7xl font-semibold tracking-tighter text-white/90 mb-6">Assembled. Ready.</h2>
-                <p className="text-lg text-black/60 font-medium mb-8">Scroll back to replay.</p>
+                <p className="text-lg text-white/60 font-medium mb-8">Scroll back to replay.</p>
                 <button className="pointer-events-auto px-8 py-3 bg-black text-white rounded-full font-medium hover:bg-black/80 transition-colors">
                     Pre-order Now
                 </button>
